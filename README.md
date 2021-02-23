@@ -1,5 +1,5 @@
 # Terraform0.14
-This repo is used to work with November Group
+
 
 #### Requirements
 #### Please use terraform 0.14.7 or above
